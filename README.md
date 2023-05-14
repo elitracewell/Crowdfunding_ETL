@@ -1,3 +1,15 @@
+#Skills Demonstrated
+-After all your learning and practice in this module, you should be able to build an ETL pipeline by doing the following:
+-Extract data by using Python and Pandas.
+-Transform and clean data by using Python and Pandas and regular expressions.
+-Parse string data into a Python dictionary.
+-Use list comprehensions to make code more readable.
+-Use wildcards, sets, and escape characters in regular expressions to extract information.
+-Use special characters in regular expressions to extract information.
+-Create and use capture groups in regular expressions to extract information.
+-Create an entity relationship diagram from CSV files.
+-Import CSV files into a postgreSQL database.
+
 # Crowdfunding_ETL
 
 For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
@@ -5,3 +17,5 @@ For the ETL mini project, you will work with a partner to practice building an E
 Since this is a one-week project, make sure that you have done at least half of your project before the third day of class to stay on track.
 
 Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
+
+
