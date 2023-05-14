@@ -1,14 +1,23 @@
-#Skills Demonstrated
--After all your learning and practice in this module, you should be able to build an ETL pipeline by doing the following:
+# Skills Demonstrated
+
 -Extract data by using Python and Pandas.
+
 -Transform and clean data by using Python and Pandas and regular expressions.
+
 -Parse string data into a Python dictionary.
+
 -Use list comprehensions to make code more readable.
+
 -Use wildcards, sets, and escape characters in regular expressions to extract information.
+
 -Use special characters in regular expressions to extract information.
+
 -Create and use capture groups in regular expressions to extract information.
+
 -Create an entity relationship diagram from CSV files.
+
 -Import CSV files into a postgreSQL database.
+
 
 # Crowdfunding_ETL
 
